@@ -39,10 +39,10 @@ Q: Can I work in a team?
 A: Yes, you can work alone or in a team.
 
 Q: What if I get stuck?
-A: Don't worry, we're here to help! You can ask for help on Twitter using the hashtag #100DaysOfBuildingFuture or join our Slack workspace.
+A: Don't worry, we're here to help! You can ask for help on Twitter using the hashtag #100DaysOfBuildingFuture.
 
 
 ## Note
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@techiral_](https://twitter.com/techiral_)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
