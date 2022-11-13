@@ -6,13 +6,15 @@
 * [Progress - click here to see my progress](progress.md)
 * [FAQ](FAQ.md)
 
+<a href="https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfBuildingFuture%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!%20hey%20@techiral_&hashtags=100DaysOfBuildingFuture"><img src="https://img.shields.io/badge/Accept%20the%20Challenge-Tweet-blue"></a>
+
 ## If you've decided to join:
 
 Here's what you need to do to get started:
 
 0.  Read [Join the #100DaysOfCode](https://techiral.medium.com/join-the-100daysofbuildingfuture-2dfee22f32c2)
 1. Choose a project idea. It can be anything that uses AI to improve our world in some way, large or small. If you need inspiration, take a look at this list of potential project ideas.
-2.  Fork this repo and commit to the Progress. This will be where you share your code with the world.
+2.  Accept this challenge. Fork this repo and commit to the Progress. This will be where you share your code with the world.
 3.  **Code minimum an hour every day for the next 100 days.**
 4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
 7.  **Tweet your progress every day using the #100DaysOfBuildingFuture hashtag.**
@@ -20,7 +22,7 @@ Here's what you need to do to get started:
 9.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 10. That’s it! You’re now ready to start **building future**
 
-#FAQ:
+# FAQ:
 
 Q: What if I miss a day?
 A: No problem! Just start again the next day and keep going. The goal is to code for at least one hour each day, so even if you miss a day here and there, you'll still be making progress.
