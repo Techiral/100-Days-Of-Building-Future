@@ -5,7 +5,6 @@
 * [Rules](rules.md)
 * [Progress - click here to see my progress](progress.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
 
 ## If you've decided to join:
 
